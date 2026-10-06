@@ -20,6 +20,16 @@ Six dispositions: ALLOW, ALLOW WITH LIMITS, REQUIRE APPROVAL, ESCALATE, HOLD, BL
 
 The first screen is the flip. The lines under it are the floor. This build runs the control rule locally. It does not call a model. It does not move money. It does not predict markets. It is not a customer result and it is not a live StratEdge product.
 
-The research page, once published: https://www.stratedgeworkflow.com/research/bench
+GuardRoute is the live product. Bench is the public run of this same decision.
+
+https://guardroute.ai
+
+45-second film, also in this repo as `guardroute-45.mp4`:
+
+https://guardroute.ai/bench/guardroute-45.mp4
+
+Research page:
+
+https://www.stratedgeworkflow.com/research/bench
 
 MIT License.
